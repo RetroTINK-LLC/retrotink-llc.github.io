@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 redirect_to: "https://www.retrotink.com/"
 ---
 
